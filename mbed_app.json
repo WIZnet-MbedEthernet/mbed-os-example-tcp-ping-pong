@@ -2,8 +2,8 @@
     "config": {
 
         "network-interface":{
-            "help": "options are ETHERNET, WIFI_ESP8266, WIFI_ODIN, MESH_LOWPAN_ND, MESH_THREAD",
-            "value": "WIFI_ODIN"
+            "help": "options are ETHERNET, WIFI_ESP8266, WIFI_ODIN, MESH_LOWPAN_ND, MESH_THREAD, ETHERNET_WIZNET",
+            "value": "ETHERNET_WIZNET"
         },
         "esp8266-tx": {
             "help": "Pin used as TX (connects to ESP8266 RX)",
